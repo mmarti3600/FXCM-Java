@@ -1,0 +1,1 @@
+These are examples of the use of the Java API to place market orders on the first account found (JavaFixTrader.java) and to pull historical rates with the Java API (JavaFixHistoryMiner.java).
