@@ -14,7 +14,7 @@ This class is used in the login method of IGateway and contains the properties n
 represents an FXCM accounts properties at the time the message was generated. When it is a part of a batch responsethe RequestID can be used to match against the RequestID received from the IGateway.
 
 **ExecutionReport:**
-This class represents an orders status in the system. When it is a part of a batch response the RequestID can be used to match against the RequestID received from the IGateway.
+This class represents an orders status in the system. When it is a part of a batch response the RequestID can be used to match against the RequestID received from the IGateway.
 
 **PositionReport:**
 This class is used to represent a positions status in the FXCM system. When it is a part of a batch response the RequestID can be used to match against the RequestID received from the IGateway.
