@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="//usa.fxcorp.prv/Home/NYC-Home03/rkichenama/trading_sdk/fxcm-api/fxcm-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="//usa.fxcorp.prv/Home/NYC-Home03/rkichenama/trading_sdk/fxcm-api/fxmsg.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file://usa.fxcorp.prv/Home/NYC-Home03/rkichenama/trading_sdk/fxcm-api/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
