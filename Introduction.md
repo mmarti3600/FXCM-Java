@@ -2,6 +2,8 @@
 
 The FXCM Trading SDK provides clients with a fully functioning programmable API into the FXCM FX trading platform. The APIs main features are streaming executable FX trading prices, the ability to open/close positions and entry orders as well as set/update/delete stops ands limits. The API Object model is based on the FIX specification for FX (http://www.fixprotocol.org) and is very simple and easy to use.
 
+___
+
 ####Brief overview of core API classes
 
 **IGateway:**
